@@ -10,7 +10,7 @@ Predict airline passenger satisfaction using a neural network model with **96.5%
 This project predicts passenger satisfaction using a TensorFlow/Keras neural network trained on 120k+ records. Key highlights:
 - **96.49% Test Accuracy**
 - **0.995 ROC AUC Score**
-- Real-time predictions via Streamlit interface  ![Link](https://airline-passenger-satisfaction-prediction.streamlit.app)
+- Real-time predictions via Streamlit interface.  ![Link](https://airline-passenger-satisfaction-prediction.streamlit.app)
 - Robust handling of class imbalance
 
 ---
