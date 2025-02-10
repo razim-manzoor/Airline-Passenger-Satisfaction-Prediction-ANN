@@ -35,10 +35,10 @@ Contains 120,000+ passenger records with:
 | Precision-Recall AUC    | 0.9946   |
 
 ### Classification Report
-          precision    recall  f1-score   support
+                    precision    recall  f1-score   support
 
-       0       0.96      0.98      0.97     14690
-       1       0.97      0.95      0.96     11286
-       accuracy                    0.96     25976
-       macro avg      0.97      0.96      0.96     25976
-       weighted avg   0.96      0.96      0.96     25976
+       0              0.96        0.98      0.97     14690
+       1              0.97        0.95      0.96     11286
+       accuracy                             0.96      25976
+       macro avg      0.97        0.96      0.96     25976
+       weighted avg   0.96        0.96      0.96     25976
